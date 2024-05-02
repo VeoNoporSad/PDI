@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "333048532049",
+    "firebase_url": "https://car-garage-890b7-default-rtdb.firebaseio.com",
+    "project_id": "car-garage-890b7",
+    "storage_bucket": "car-garage-890b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333048532049:android:7beb799d05b69023ff3c70",
+        "android_client_info": {
+          "package_name": "com.example.pruebasparaoficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwldU7diw9znjt9d-Tm-uZzuzzY6w8Gns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
